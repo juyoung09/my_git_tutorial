@@ -1,5 +1,5 @@
 # my_git_tutorial
 Git practice repository.
 
-## Usage 
+## How to run 
 python hello.py
