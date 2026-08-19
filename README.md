@@ -2,6 +2,9 @@
 A tiny repo for practicing Git.
 Git practice repository.
 
+##Usage
+python hello.py
+
 ## How to run 
 python hello.py
 
