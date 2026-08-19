@@ -1,5 +1,5 @@
 # my_git_tutorial
-A tiny repo for practicing Git.
+A tiny repo  for practicing Git.  
 Git practice repository.
 
 ##Usage
